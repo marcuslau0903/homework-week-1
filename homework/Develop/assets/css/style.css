@@ -41,9 +41,15 @@ body {
     margin-left: 25px;
 }
 
+.nav li {
+    display:inline-block;
+    font-size:large;
+    padding: 5px;
+}
+
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none;    
 }
 
 p {
