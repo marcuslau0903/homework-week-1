@@ -45,11 +45,13 @@ body {
     display:inline-block;
     font-size:large;
     padding: 5px;
+    float : right;
+    background-color: #2a607c; 
 }
 
 a {
     color: #ffffff;
-    text-decoration: none;    
+    text-decoration: none;   
 }
 
 p {
