@@ -3,6 +3,7 @@
 The webpage codebase has been refactored to meet accessibility standards along with functional improvements. 
 
 [link to deployed project page] https://marcuslau0903.github.io/homework-week-1/
+
 [link to GitHub repository] https://github.com/marcuslau0903/homework-week-1
 
 # <h2>Adjustments:<h2>
